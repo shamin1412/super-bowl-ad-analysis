@@ -1,4 +1,4 @@
-📊 Super Bowl Ads — Are They Effective?
+## 📊 Super Bowl Ads — Are They Effective?
 
 This project explores the impact of Super Bowl advertising using real marketing analytics techniques. The Super Bowl is known for its record-breaking ad costs and massive viewership — but does all that spending actually work?
 
